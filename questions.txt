@@ -1,0 +1,15 @@
+Instructions:
+
+1. The solution to this assignment is expected to be submitted in the form of a python code.
+2. Do not use absolute paths when loading data files.
+3. Make good use of comments to explain your approach.
+4. Your code should be readable and results reproducible.
+5. Your output should also be uploaded.
+
+Dataset
+
+A folder "dataset" consists of a file pollution.csv, representing the air pollution data. You have to perform the following tasks on that:
+
+i. Data Exploration (with the help of different kinds of Plots)
+ii. Split the dataset in such a way that 80% is kept for training purpose and 20% is kept for test purpose. Build a Decision Tree, SVM and KNN models to classify categories of "AQI Column" and report the model performance on the test dataset with accuracy.
+
